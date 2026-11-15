@@ -1,0 +1,18 @@
+﻿using ConsoleApp1.Modelo;
+using System;
+using System.Collections.Generic;
+using System.Text;
+using Microsoft.Data.SqlClient;
+namespace ConsoleApp1.Repositorio
+{
+    internal interface IPersonaRepository
+    {
+        int Insertar(Persona p);                      // devuelve el Id generado
+        Persona? ObtenerPorId(int id);                // null si no existe
+        List<Persona> ObtenerTodas();                 // solo las activas
+        List<Persona> BuscarPorNombre(string texto);
+        bool Actualizar(Persona p);                   // false si el Id no existe
+        bool DarDeBaja(int id);                       // borrado lógico
+        bool Eliminar(int id);
+    }
+}

@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="../Ejercicio-C1-C2-02/Ejercicio-C1-C2-02.csproj" Id="ab5f78ae-93b9-4d18-8b68-9d12f0efae0d" />
+  <Project Path="../Ejercicio_C1/Ejercicio_C1.csproj" Id="b12541e0-8517-4663-bd77-7e8b06ae7d57" />
+  <Project Path="../Enunciados-01/Enunciados-01.csproj" Id="7c3ef3d5-9afd-41ba-8869-29f82571fc9a" />
+  <Project Path="../Enunciados-02/Enunciados-02.csproj" Id="a706ccfa-7bb1-47c5-95ee-adb2f4fadc77" />
+  <Project Path="../Enunciados-03/Enunciados-03.csproj" Id="222f6f47-e30e-4f50-9a6e-8c106fb0e7a7" />
+  <Project Path="../Enunciados-04/Enunciados-04.csproj" Id="0bbd39e0-1073-4c54-86d6-1c761fdea05e" />
+  <Project Path="Solucion_Tema2.csproj" Id="67812481-b7ca-4c6c-8f89-3e89bfa7869c" />
+</Solution>
